@@ -11,7 +11,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
